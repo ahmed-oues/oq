@@ -1,6 +1,4 @@
-Free Download Source Code "oq"
 
-FIRST Download
 
 1.XAMPP
 
@@ -27,7 +25,3 @@ Admin
 user: admin
 pass: admin123
 
-create your own student
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
