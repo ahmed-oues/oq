@@ -1,7 +1,5 @@
 # Quize_app
-Free Download Source Code "oq"
 
-FIRST Download
 
 1.XAMPP
 
